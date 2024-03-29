@@ -1,0 +1,25 @@
+.link_mail {
+    text-decoration: none;
+    color: rgb(116, 255, 255);
+}
+
+body {
+    background-color: rgb(37, 37, 37);
+}
+
+footer {
+    background-color: rgb(37, 37, 37);
+}
+
+p {
+    font-size: 20px;
+}
+
+.card {
+    background-color: rgb(116, 116, 116);
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.07);
+  }
